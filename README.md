@@ -1,4 +1,4 @@
-# SeeYou
+# SeeYou    Branch: Master
 Scripts for scoring on Naviter SeeYou
 
 This repository contains all the published SeeYou scripts used to score the CAT I IGC Championships
