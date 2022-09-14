@@ -1,0 +1,3 @@
+[submodule "seeyou_competition_scripts"]
+	path = seeyou_competition_scripts
+	url = https://github.com/naviter/seeyou_competition_scripts.git
